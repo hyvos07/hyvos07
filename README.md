@@ -74,7 +74,7 @@
 <!-- Social Media -->
 <h3 align="center"style="padding-top: 30px;">Connect with me!</h3>
 
-<div style="display: flex; justify-content: center;">
+<div align="center" style="display: flex; justify-content: center;">
   <a href="https://twitter.com/hyvos_/" target="_blank" style="text-decoration: none;">
     <img src="https://cdn.discordapp.com/attachments/847093516974555156/1200090829134512138/logx.png?ex=65c4eaae&is=65b275ae&hm=f283cbba49664d00e8dadb2ac206824cc1765157c4cc944ad347eb435a572ee6" alt="" height="30" width="30" style="border: none;">
   </a>
