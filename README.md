@@ -5,7 +5,7 @@
 <!-- About Me -->
 <h2 align="center"> About Me 🧑‍💻</h2>
 
-<p align="center" style="padding-bottom: 20px;"> <b>Welcome to my Github!</b> I'm a passionate programming enthusiast on a continuous journey of learning and growth alongside others. I'm currently pursuing a <b> Computer Science Major at the University of Indonesia</b>. I'm eager to leverage my experiences and skills to contribute meaningfully to software development initiatives, especially in Mobile Apps Development. I'm always open to do a collaboration projects and explore synergies with other programming enthusiast that has the same target and interests as me. </p>
+<p align="center" style="padding-bottom: 25px;"> <b>Welcome to my Github!</b> I'm a passionate programming enthusiast on a continuous journey of learning and growth alongside others. I'm currently pursuing a <b> Computer Science Major at the University of Indonesia</b>. I'm eager to leverage my experiences and skills to contribute meaningfully to software development initiatives, especially in Mobile Apps Development. I'm always open to do a collaboration projects and explore synergies with other programming enthusiast that has the same target and interests as me. </p>
 
 <p align="center" style="padding-bottom: 35px;">
 <a style="padding-right: 30px;">
@@ -13,11 +13,6 @@
 </a>
 <a>
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyvos07&layout=compact&theme=dark"/>
-</a>
-<br>
-<br>
-<a href="https://git.io/streak-stats">
-<img src="https://streak-stats.demolab.com?user=hyvos07&theme=highcontrast" alt="GitHub Streak"/>
 </a>
 </p>
 
