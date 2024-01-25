@@ -8,7 +8,7 @@
 <p align="center" style="padding-bottom: 20px;"> 
     <b>Welcome to my Github!</b> I'm a passionate programming enthusiast on a continuous journey of learning and growth alongside others. I'm currently pursuing a <b> Computer Science Major at the University of Indonesia</b>. I'm eager to leverage my experiences and skills to contribute meaningfully to software development initiatives, especially in Mobile Apps Development. I'm always open to do a collaboration projects and explore synergies with other programming enthusiast that has the same target and interests as me.
 </p>
-
+<br>
 <p align="center" style="padding-bottom: 35px;">
     <a href="https://github.com/hyvos07" style="padding-right: 30px;">
         <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=hyvos07&show_icons=true&theme=dark&icon_color=334cbd&hide_rank=true&hide=stars,issues&include_all_commits=true"/>
