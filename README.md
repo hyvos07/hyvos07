@@ -55,7 +55,7 @@
 <h3 align="center"style="padding-top: 30px;">Connect with me!</h3>
 
 <p align="center">
-<a href="https://twitter.com/hyvos_" target="blank"><img align="center" style="padding-right: 5px;" src="https://cdn.discordapp.com/attachments/847093516974555156/1200090829134512138/logx.png?ex=65c4eaae&is=65b275ae&hm=f283cbba49664d00e8dadb2ac206824cc1765157c4cc944ad347eb435a572ee6&" alt="" height="30" width="30" />
+<a href="https://twitter.com/hyvos_/" target="blank"><img align="center" style="padding-right: 5px;" src="https://cdn.discordapp.com/attachments/847093516974555156/1200090829134512138/logx.png?ex=65c4eaae&is=65b275ae&hm=f283cbba49664d00e8dadb2ac206824cc1765157c4cc944ad347eb435a572ee6&" alt="" height="30" width="30" />
 </a>
 <a href="https://www.linkedin.com/in/danielliman" target="blank"><img align="center" src="https://static.licdn.com/aero-v1/sc/h/akt4ae504epesldzj74dzred8" alt="" height="31" width="40" /></a>
 <a href="https://www.instagram.com/daniel.liman07" style="padding-left: 5px;" target="blank"><img align="center" src="https://static.cdninstagram.com/rsrc.php/v3/yI/r/VsNE-OHk_8a.png" alt="" height="27" width="27" /></a>
