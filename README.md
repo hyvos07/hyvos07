@@ -16,6 +16,7 @@
 </a>
 </p>
 
+<p><br></p>
 
 <!-- Project List -->
 <h2 align="center"> My Projects 💻</h2>
@@ -31,6 +32,7 @@
 </a>
 </p>
 
+<p><br></p>
 
 <!-- Language and Tools -->
 <h2 align="center">Languages and Tools 🛠️</h2>
@@ -50,6 +52,7 @@
 </a>
 </p>
 
+<p><br></p>
 
 <!-- Social Media -->
 <h3 align="center"style="padding-top: 30px;">Connect with me!</h3>
