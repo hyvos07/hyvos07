@@ -39,23 +39,23 @@
 <!-- Language and Tools -->
 <h2 align="center">Languages and Tools 🛠️</h2>
 <p align="center">
-    <a href="https://www.python.org/" style="padding-right: 10px;" target="_blank">
+    <a href="https://www.python.org/" style="padding-right: 15px;" target="_blank">
         <img src="https://www.svgrepo.com/show/452091/python.svg" alt="python" width="40" height="40"/> 
     </a>
-    <a href="https://en.cppreference.com/w/" style="padding-right: 10px;" target="_blank">
+    <a href="https://en.cppreference.com/w/" style="padding-right: 15px;" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="cplusplus" width="40" height="40"/>
     </a>
-    <a href="https://dart.dev/" style="padding-right: 7px;" target="_blank"> 
+    <a href="https://dart.dev/" style="padding-right: 15px;" target="_blank"> 
         <img src="https://upload.wikimedia.org/wikipedia/commons/a/a2/Dart_programming_language_logo_icon.svg" alt="dart" width="40" height="40"/> 
     </a>
-    <a href="https://www.java.com/en/" style="padding-right: 10px;" target="_blank">
+    <a href="https://www.java.com/en/"" target="_blank">
         <img src="https://www.svgrepo.com/show/184143/java.svg" alt="java" width="40" height="40"/> 
     </a>
     <br>
     <br>
     <a href="https://flutter.dev/" style="padding-right: 10px;" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
-    <a href="https://www.djangoproject.com/" style="padding-right: 10px;" target="_blank">
+    <a href="https://www.djangoproject.com/" target="_blank">
         <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> 
     </a>
 </p>
