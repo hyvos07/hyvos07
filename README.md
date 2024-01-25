@@ -11,14 +11,14 @@
   I'm always open to do a collaboration projects and explore synergies with other programming enthusiast that has the same target and interests as me.
 </p>
 
-<p align="center" style="padding-bottom: 35px;">
+<div align="center" style="padding-bottom: 35px;">
   <a href="https://github.com/hyvos07" style="padding-right: 30px; border: none;">
     <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=hyvos07&show_icons=true&theme=dark&icon_color=334cbd&hide_rank=true&hide=stars,issues&include_all_commits=true"/>
   </a>
   <a style="text-decoration: none; border: none;" href="https://github.com/hyvos07">
     <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyvos07&layout=compact&theme=dark"/>
   </a>
-</p>
+</div>
 
 <p>
   <br>
@@ -29,14 +29,14 @@
 
 <p align="center" style="padding-bottom: 10px;">Here's some of projects that I've done or currently working on!</p>
 
-<p align="center" style="text-decoration: none; padding-bottom: 35px; border: none;">
+<div align="center" style="text-decoration: none; padding-bottom: 35px; border: none;">
   <a style="text-decoration: none;  padding-right: 20px;" href="https://github.com/hyvos07/qr_generator">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hyvos07&repo=qr_generator&show_owner=true&theme=dark&icon_color=334cbd" />
   </a>
   <a style="text-decoration: none; border: none;" href="https://github.com/hyvos07/panpan-web">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hyvos07&repo=panpan-web&show_owner=true&theme=dark&icon_color=334cbd" />
   </a>
-</p>
+</div>
 
 <p>
   <br>
@@ -44,7 +44,7 @@
 
 <!-- Language and Tools -->
 <h2 align="center">Languages and Tools 🛠️</h2>
-<p align="center">
+<div align="center">
   <a style="text-decoration: none; border: none;" href="https://www.python.org/" target="_blank">
     <img src="https://www.svgrepo.com/show/452091/python.svg" alt="python" width="40" height="40"/> 
   </a>
@@ -65,7 +65,7 @@
   <a style="text-decoration: none; padding-left: 5px; border: none;" href="https://www.djangoproject.com/" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> 
   </a>
-</p>
+</div>
 
 <p>
   <br>
@@ -74,7 +74,7 @@
 <!-- Social Media -->
 <h3 align="center"style="padding-top: 30px;">Connect with me!</h3>
 
-<p align="center">
+<div align="center">
   <a style="text-decoration: none; border: none;" href="https://twitter.com/hyvos_/" target="blank">
     <img align="center" src="https://cdn.discordapp.com/attachments/847093516974555156/1200090829134512138/logx.png?ex=65c4eaae&is=65b275ae&hm=f283cbba49664d00e8dadb2ac206824cc1765157c4cc944ad347eb435a572ee6&" alt="" height="30" width="30" />
   </a>
@@ -84,4 +84,4 @@
   <a style="text-decoration: none; padding-left: 5px; border: none;" href="https://www.instagram.com/daniel.liman07" target="blank">
     <img align="center" src="https://static.cdninstagram.com/rsrc.php/v3/yI/r/VsNE-OHk_8a.png" alt="" height="27" width="27" />
   </a>
-</p>
+</div>
