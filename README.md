@@ -35,7 +35,7 @@
     <a href="https://github.com/hyvos07/panpan-web">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hyvos07&repo=panpan-web&show_owner=true&theme=dark&icon_color=334cbd" />
     </a>
-    &nbsp;&nbsp;
+    <br>
     <a href="https://github.com/hyvos07/cv-calculator">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hyvos07&repo=cv-calculator&show_owner=true&theme=dark&icon_color=334cbd" />
     </a>
