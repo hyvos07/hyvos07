@@ -80,7 +80,7 @@
 
 <p align="center">
   <a style="text-decoration: none; border: none;" href="https://twitter.com/hyvos_/" target="blank">
-    <img align="center" src="https://svgshare.com/i/13_t.svg" alt="" height="30" width="30" />
+    <img align="center" src="https://svgshare.com/i/13_B.svg" alt="" height="30" width="30" />
   </a>
     &nbsp;
   <a style="text-decoration: none; padding-left: 5px; border: none;" href="https://www.linkedin.com/in/danielliman" target="blank">
