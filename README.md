@@ -80,7 +80,7 @@
 
 <p align="center">
   <a style="text-decoration: none; border: none;" href="https://twitter.com/hyvos_/" target="blank">
-    <img align="center" src="https://cdn.discordapp.com/attachments/847093516974555156/1200090829134512138/logx.png?ex=65c4eaae&is=65b275ae&hm=f283cbba49664d00e8dadb2ac206824cc1765157c4cc944ad347eb435a572ee6&" alt="" height="30" width="30" />
+    <img align="center" src="https://svgshare.com/i/13_t.svg" alt="" height="30" width="30" />
   </a>
     &nbsp;
   <a style="text-decoration: none; padding-left: 5px; border: none;" href="https://www.linkedin.com/in/danielliman" target="blank">
