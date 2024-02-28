@@ -1,5 +1,5 @@
 <!-- Banner -->
-![MasterHead](/banner.jpg)
+![MasterHead](/banner.png)
 
 
 <!-- About Me -->
