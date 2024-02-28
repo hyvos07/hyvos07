@@ -1,5 +1,5 @@
 <!-- Banner -->
-![MasterHead](https://cdn.discordapp.com/attachments/847093516974555156/1200074833552232600/banner.png?ex=65c4dbc8&is=65b266c8&hm=9788187c89a9f1ba538deb30620fddcd4e6fa102324b1a86de741e30a924a349&)
+![MasterHead](/banner.jpg)
 
 
 <!-- About Me -->
