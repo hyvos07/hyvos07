@@ -49,7 +49,7 @@
 <br>
 
 <!-- Language and Tools -->
-<h2 align="center">Languages and Tools 🛠️</h2>
+<h2 align="center">Languages and Frameworks 🛠️</h2>
 <p align="center">
     <a href="https://www.python.org/" style="padding-right: 15px;" target="_blank">
         <img src="https://www.svgrepo.com/show/452091/python.svg" alt="python" width="40" height="40"/> 
