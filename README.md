@@ -89,7 +89,6 @@
   <a style="text-decoration: none; padding-left: 5px; border: none;" href="https://www.linkedin.com/in/danielliman" target="blank">
     <img align="center" src="https://static.licdn.com/aero-v1/sc/h/akt4ae504epesldzj74dzred8" alt="" height="31" width="40" />
   </a>
-    &nbsp;
   <a style="text-decoration: none; padding-left: 5px; border: none;" href="https://www.instagram.com/daniel.liman07" target="blank">
     <img align="center" src="https://static.cdninstagram.com/rsrc.php/v3/yI/r/VsNE-OHk_8a.png" alt="" height="27" width="27" />
   </a>
