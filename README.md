@@ -84,7 +84,7 @@
 
 <p align="center">
   <a style="text-decoration: none; border: none;" href="https://twitter.com/hyvos_/" target="blank">
-    <img align="center" src="https://cdn.discordapp.com/attachments/847093516974555156/1210901973965209620/twitterx.png?ex=65ec3f58&is=65d9ca58&hm=003547f1e6bf35c696453de408bf6d3eb01a9dc07a57488fd7652fb7ffedd1ae&" alt="" height="30" width="30" />
+    <img align="center" src="/twitterxwhite.svg" alt="" height="30" width="30" />
   </a>
   <a style="text-decoration: none; padding-left: 5px; border: none;" href="https://www.linkedin.com/in/danielliman" target="blank">
     <img align="center" src="https://static.licdn.com/aero-v1/sc/h/akt4ae504epesldzj74dzred8" alt="" height="31" width="40" />
