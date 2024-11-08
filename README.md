@@ -49,32 +49,50 @@
 <br>
 
 <!-- Language and Tools -->
-<h2 align="center">Languages and Frameworks 🛠️</h2>
+<h2 align="center">Tech Stack 🛠️</h2>
 <p align="center">
-    <a href="https://www.python.org/" style="padding-right: 15px;" target="_blank">
-        <img src="https://www.svgrepo.com/show/452091/python.svg" alt="python" width="40" height="40"/> 
-    </a>
-    &nbsp;
-    <a href="https://en.cppreference.com/w/" style="padding-right: 15px;" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="cplusplus" width="40" height="40"/>
-    </a>
-    &nbsp;
-    <a href="https://dart.dev/" style="padding-right: 15px;" target="_blank"> 
-        <img src="https://upload.wikimedia.org/wikipedia/commons/a/a2/Dart_programming_language_logo_icon.svg" alt="dart" width="40" height="40"/> 
-    </a>
-    &nbsp;
-    <a href="https://www.java.com/en/"" target="_blank">
-        <img src="https://www.svgrepo.com/show/184143/java.svg" alt="java" width="40" height="40"/> 
-    </a>
+    <picture>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="cplusplus" width="40" height="40"/> &nbsp;
+    </picture>
+    <picture>
+        <img src="https://www.svgrepo.com/show/452091/python.svg" alt="python" width="40" height="40"/> &nbsp;
+    </picture>
+    <picture>
+        <img src="https://www.svgrepo.com/show/184143/java.svg" alt="java" width="40" height="40"/> &nbsp;
+    </picture>
+    <picture>
+        <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="html" width="40" height="40"/> &nbsp;
+    </picture>
+    <picture>
+        <img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="css" width="40" height="40"/> &nbsp;
+    </picture>
+    <picture>
+        <img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="js" width="40" height="40"/> &nbsp;
+    </picture>
+    <picture>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/a/a2/Dart_programming_language_logo_icon.svg" alt="dart" width="40" height="40"/> &nbsp;
+    </picture>
+    </picture>
+    <picture>
+        <img src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="postgresql" width="40" height="40"/>
+    </picture>
     <br>
     <br>
-    <a href="https://flutter.dev/" style="padding-right: 10px;" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
-    </a>
-    &nbsp;
-    <a href="https://www.djangoproject.com/" target="_blank">
-        <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> 
-    </a>
+    <picture>
+        <img src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" alt="figma" width="40" height="40"/> &nbsp;
+    </picture>
+    <picture>
+        <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> &nbsp;
+    </picture>
+    <picture>
+        <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> &nbsp;
+    </picture>
+    <picture>
+        <img src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="tailwind" width="40" height="40"/> &nbsp;
+    </picture>
+    <picture>
+        <img src="https://github.com/user-attachments/assets/e40fc76b-c8d8-47c3-bb53-c7795abaf596" alt="supabase" width="40" height="40"/>
+    </picture>
 </p>
 
 <br>
@@ -82,14 +100,10 @@
 <!-- Social Media -->
 <h3 align="center"style="padding-top: 30px;">Connect with me!</h3>
 
-<p align="center">
-  <a style="text-decoration: none; border: none;" href="https://twitter.com/hyvos_/" target="blank">
-    <img align="center" src="/twitterwhite.svg" alt="" height="28"/>
-  </a>
-  <a style="text-decoration: none; padding-left: 5px; border: none;" href="https://www.linkedin.com/in/danielliman" target="blank">
-    <img align="center" src="https://static.licdn.com/aero-v1/sc/h/akt4ae504epesldzj74dzred8" alt="" height="31" width="40" />
-  </a>
-  <a style="text-decoration: none; padding-left: 5px; border: none;" href="https://www.instagram.com/daniel.liman07" target="blank">
-    <img align="center" src="https://static.cdninstagram.com/rsrc.php/v3/yI/r/VsNE-OHk_8a.png" alt="" height="29"/>
-  </a>
-</p>
+<div align="center">
+
+[<img align="center" src="/twitterwhite.svg" alt="Twitter/X" height="28"/>](https://twitter.com/hyvos_/) &nbsp;
+[<img align="center" src="https://static.licdn.com/aero-v1/sc/h/akt4ae504epesldzj74dzred8" alt="LinkedIn" height="28"/>](https://www.linkedin.com/in/danielliman) &nbsp;
+[<img align="center" src="https://static.cdninstagram.com/rsrc.php/v3/yI/r/VsNE-OHk_8a.png" alt="Instagram" height="28"/>](https://www.instagram.com/daniel.liman07) &nbsp;
+
+</div>
