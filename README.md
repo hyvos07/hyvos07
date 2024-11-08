@@ -103,7 +103,7 @@
 <div align="center">
 
 [<img align="center" src="/twitterwhite.svg" alt="Twitter/X" height="28"/>](https://twitter.com/hyvos_/) &nbsp;
-[<img align="center" src="https://static.licdn.com/aero-v1/sc/h/akt4ae504epesldzj74dzred8" alt="LinkedIn" height="28"/>](https://www.linkedin.com/in/danielliman) &nbsp;
+[<img align="center" src="https://static.licdn.com/aero-v1/sc/h/akt4ae504epesldzj74dzred8" alt="LinkedIn" height="32"/>](https://www.linkedin.com/in/danielliman) &nbsp;
 [<img align="center" src="https://static.cdninstagram.com/rsrc.php/v3/yI/r/VsNE-OHk_8a.png" alt="Instagram" height="28"/>](https://www.instagram.com/daniel.liman07) &nbsp;
 
 </div>
