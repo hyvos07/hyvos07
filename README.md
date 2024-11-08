@@ -74,7 +74,7 @@
     </picture>
     </picture>
     <picture>
-        <img src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="postgresql" width="40" height="40"/>
+        <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="40" height="40"/>
     </picture>
     <br>
     <br>
