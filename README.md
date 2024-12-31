@@ -1,5 +1,7 @@
 <!-- Banner -->
-[![MasterHead](/banner.png)](#)
+<picture>
+    <img src="/banner.png" alt="head"/>
+</picture>
 
 
 <!-- About Me -->
@@ -9,6 +11,7 @@
     <b>Welcome to my Github!</b> I'm a passionate programming enthusiast on a continuous journey of learning and growth alongside others. I'm currently pursuing a <b> Computer Science Major at the University of Indonesia</b>. I'm eager to leverage my experiences and skills to contribute meaningfully to software development initiatives, especially in Mobile Apps Development. I'm always open to do a collaboration projects and explore synergies with other programming enthusiast that has the same target and interests as me.
 </p>
 
+<br>
 
 <div align="center" style="padding-bottom: 35px;">
 
@@ -23,6 +26,8 @@
 <h2 align="center"> My Projects 💻</h2>
 
 <p align="center" style="padding-bottom: 20px;">Here's some of projects that I've done or currently working on!</p>
+
+<br>
 
 <div align="center" style="padding-bottom: 35px;">
 
