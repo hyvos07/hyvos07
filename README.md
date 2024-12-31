@@ -22,26 +22,6 @@
 
 <br>
 
-<!-- Project List -->
-<h2 align="center"> My Projects 💻</h2>
-
-<p align="center" style="padding-bottom: 20px;">Here's some of projects that I've done or currently working on!</p>
-
-<br>
-
-<div align="center" style="padding-bottom: 35px;">
-
-[<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hyvos07&repo=todos&show_owner=true&theme=dark&icon_color=334cbd" />](https://github.com/hyvos07/todos) &nbsp; &nbsp;
-[<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hyvos07&repo=qr_generator&show_owner=true&theme=dark&icon_color=334cbd" />](https://github.com/hyvos07/qr_generator)
-
-
-[<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hyvos07&repo=cv-calculator&show_owner=true&theme=dark&icon_color=334cbd" />](https://github.com/hyvos07/cv-calculator) &nbsp; &nbsp;
-[<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hyvos07&repo=panpan-web&show_owner=true&theme=dark&icon_color=334cbd" />](https://github.com/hyvos07/panpan-web)
-
-</div>
-
-<br>
-
 <!-- Language and Tools -->
 <h2 align="center">Tech Stack 🛠️</h2>
 <p align="center">
