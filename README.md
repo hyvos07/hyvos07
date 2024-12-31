@@ -15,8 +15,12 @@
 
 <div align="center" style="padding-bottom: 35px;">
 
-[<img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=hyvos07&show_icons=true&theme=dark&icon_color=334cbd&hide_rank=true&hide=stars,issues&include_all_commits=true"/>](https://github.com/hyvos07) &nbsp; &nbsp;
-[<img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyvos07&layout=compact&theme=dark"/>](https://github.com/hyvos07)
+<picture>
+    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=hyvos07&show_icons=true&theme=dark&icon_color=334cbd&hide_rank=true&hide=stars,issues&include_all_commits=true"/>
+</picture>
+<picture>
+    &nbsp; &nbsp; <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyvos07&layout=compact&theme=dark"/>
+</picture>
 
 </div>
 
