@@ -30,7 +30,7 @@
 <h2 align="center">Tech Stack 🛠️</h2>
 <p align="center">
     <picture>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="cplusplus" width="45" height="45"/> &nbsp;
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="cpp" width="45" height="45"/> &nbsp;
     </picture>
     <picture>
         <img src="https://www.svgrepo.com/show/452091/python.svg" alt="python" width="45" height="45"/> &nbsp;
@@ -45,7 +45,13 @@
         <img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="css" width="45" height="45"/> &nbsp;
     </picture>
     <picture>
-        <img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="js" width="45" height="45"/> &nbsp;
+        <img src="https://www.svgrepo.com/show/349419/javascript.svg" alt="js" width="45" height="45"/> &nbsp;
+    </picture>
+    <picture>
+        <img src="https://www.svgrepo.com/show/349540/typescript.svg" alt="ts" width="45" height="45"/> &nbsp;
+    </picture>
+    <picture>
+        <img src="https://raw.githubusercontent.com/hyvos07/dnlmn-web/7cb1e3bde8bffc0485ff73850fc936b49015ca50/public/tech/rust.svg" alt="rust" width="45" height="45"/> &nbsp;
     </picture>
     <picture>
         <img src="https://upload.wikimedia.org/wikipedia/commons/a/a2/Dart_programming_language_logo_icon.svg" alt="dart" width="45" height="45"/> &nbsp;
@@ -60,6 +66,9 @@
         <img src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" alt="figma" width="45" height="45"/> &nbsp;
     </picture>
     <picture>
+        <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" alt="react" width="45" height="45"/> &nbsp;
+    </picture>
+    <picture>
         <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="45" height="45"/> &nbsp;
     </picture>
     <picture>
@@ -69,14 +78,31 @@
         <img src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="tailwind" width="45" height="45"/> &nbsp;
     </picture>
     <picture>
+        <img src="https://raw.githubusercontent.com/hyvos07/dnlmn-web/7cb1e3bde8bffc0485ff73850fc936b49015ca50/public/tech/nextjs.svg" alt="nextjs" width="45" height="45"/> &nbsp;
+    </picture>
+    <picture>
+        <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring_boot.png" alt="springboot" width="45" height="45"/> &nbsp;
+    </picture>
+    <picture>
         <img src="https://github.com/user-attachments/assets/e40fc76b-c8d8-47c3-bb53-c7795abaf596" alt="supabase" width="45" height="45"/>
     </picture>
 </p>
 
 <br>
 
+<h3 align="center"style="padding-top: 30px;">Visit my Portfolio Website!</h3>
+
+<div align="center">
+
+| [dnlmn-web](https://dnlmn.vercel.app/) |
+|-|
+
+</div>
+
+<br>
+
 <!-- Social Media -->
-<h3 align="center"style="padding-top: 30px;">Connect with me!</h3>
+<h3 align="center"style="padding-top: 30px;">Connect with Me!</h3>
 
 <div align="center">
 
