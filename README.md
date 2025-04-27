@@ -99,8 +99,6 @@
 
 </div>
 
-<br>
-
 <!-- Social Media -->
 <h3 align="center"style="padding-top: 30px;">Connect with Me!</h3>
 
