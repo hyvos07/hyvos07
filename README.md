@@ -19,7 +19,7 @@
     <img height=150 align="center" src="https://github-readme-stats.shion.dev/api?username=hyvos07&show_icons=true&theme=dark&icon_color=334cbd&hide_rank=true&hide=stars,issues&include_all_commits=true"/>
 </picture>
 <picture>
-    &nbsp; &nbsp; <img height=150 align="center" src="https://github-readme-stats.shion.dev/api/top-langs/?username=hyvos07&layout=compact&theme=dark"/>
+    &nbsp; &nbsp; <img height=150 align="center" src="https://github-readme-stats.shion.dev/api/top-langs/?username=hyvos07&layout=compact&theme=dark&hide=jupyter%20notebook"/>
 </picture>
 
 </div>
