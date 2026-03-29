@@ -16,10 +16,10 @@
 <div align="center" style="padding-bottom: 35px;">
 
 <picture>
-    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=hyvos07&show_icons=true&theme=dark&icon_color=334cbd&hide_rank=true&hide=stars,issues&include_all_commits=true"/>
+    <img height=150 align="center" src="https://github-readme-stats.shion.dev/api?username=hyvos07&show_icons=true&theme=dark&icon_color=334cbd&hide_rank=true&hide=stars,issues&include_all_commits=true"/>
 </picture>
 <picture>
-    &nbsp; &nbsp; <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyvos07&layout=compact&theme=dark"/>
+    &nbsp; &nbsp; <img height=150 align="center" src="https://github-readme-stats.shion.dev/api/top-langs/?username=hyvos07&layout=compact&theme=dark"/>
 </picture>
 
 </div>
