@@ -8,7 +8,7 @@
 <h2 align="center"> About Me 🧑‍💻</h2>
 
 <p align="center" style="padding-bottom: 20px;"> 
-    <b>Welcome to my Github!</b> I'm a passionate programming enthusiast on a continuous journey of learning and growth alongside others. I'm currently pursuing a <b> Computer Science Major at the University of Indonesia</b>. I'm eager to leverage my experiences and skills to contribute meaningfully to software development initiatives, especially in Mobile Apps Development. I'm always open to do a collaboration projects and explore synergies with other programming enthusiast that has the same target and interests as me.
+    <b>Welcome to my Github!</b> I'm Hyvos, a Computer Science student at the University of Indonesia. My focus lies in Software Engineering, but I also work across Data Science, AI, and DevOps. I enjoy creating things that make systems smarter and people’s work easier. I'm always open to new ideas, challenges, and collaborations that move things forward. Feel free to connect with me!
 </p>
 
 <br>
@@ -86,6 +86,7 @@
     <picture>
         <img src="https://github.com/user-attachments/assets/e40fc76b-c8d8-47c3-bb53-c7795abaf596" alt="supabase" width="45" height="45"/>
     </picture>
+    <p align="center">... and many more!</p>
 </p>
 
 <br>
@@ -106,6 +107,6 @@
 
 [<img align="center" src="/twitterwhite.svg" alt="Twitter/X" height="28"/>](https://twitter.com/hyvos_/) &nbsp;
 [<img align="center" src="https://static.licdn.com/aero-v1/sc/h/akt4ae504epesldzj74dzred8" alt="LinkedIn" height="32"/>](https://www.linkedin.com/in/danielliman) &nbsp;
-[<img align="center" src="https://static.cdninstagram.com/rsrc.php/v3/yI/r/VsNE-OHk_8a.png" alt="Instagram" height="28"/>](https://www.instagram.com/daniel.liman07) &nbsp;
+[<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg?utm_source=id.wikipedia.org&utm_campaign=index&utm_content=original" alt="Instagram" height="30"/>](https://www.instagram.com/daniel.liman07) &nbsp;
 
 </div>
